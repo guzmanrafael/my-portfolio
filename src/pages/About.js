@@ -91,10 +91,10 @@ export const About = () => {
                 ¿Quien Soy?
               </Typography>
               <Typography align="justify" className={classes.aboutMe}>
-                Mi nombre es Rafael Ivan Guzmán Ramírez, soy de México, y
-                actualmente estoy estudiando Ingeniería en Software en el
-                Instituto Tecnológico de Sonora. Me gusta y me apasiona el
-                Desarrollo Web Backend & Frontend.
+                Mi nombre es Rafael Ivan Guzmán Ramírez, soy de México,
+                estudiante de Ingeniería en Software en el Instituto Tecnológico
+                de Sonora. Me gusta y me apasiona el Desarrollo Web Backend &
+                Frontend.
               </Typography>
             </Paper>
           </Grid>

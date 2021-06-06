@@ -129,10 +129,7 @@ export const Home = () => {
                   variant="h2"
                   align="left"
                 >
-                  Estudiante de Ingeniería en Software
-                </Typography>
-                <Typography className={classes.bottomText} align="left">
-                  Desarrollador de Software.
+                  Soy Desarrollador de Software
                 </Typography>
                 <NavLink to="/about">
                   <Button
